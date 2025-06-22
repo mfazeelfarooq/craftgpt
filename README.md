@@ -53,7 +53,3 @@ _Detailed setup instructions will be added here._
 *   `OPENAI_KEY`
 *   `JWT_SECRET`
 
-## Videos
-
-*   Code Overview: [Link]
-*   Functionality Demo: [Link] 
